@@ -86,10 +86,5 @@
             app:layout_constraintStart_toStartOf="@+id/guideline" android:layout_marginBottom="16dp"
             app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintDimensionRatio="1:1"
             app:layout_constraintEnd_toEndOf="@+id/imageView2"/>
-    <Button
-            android:text="Button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" tools:layout_editor_absoluteY="242dp"
-            tools:layout_editor_absoluteX="6dp" android:id="@+id/button"/>
 
 </android.support.constraint.ConstraintLayout>
